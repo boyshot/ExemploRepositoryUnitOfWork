@@ -1,0 +1,12 @@
+C:\Paulo\Projeto\erpApp\erpApp.Data\bin\Debug\netcoreapp3.1\erpApp.Data.deps.json
+C:\Paulo\Projeto\erpApp\erpApp.Data\bin\Debug\netcoreapp3.1\erpApp.Data.dll
+C:\Paulo\Projeto\erpApp\erpApp.Data\bin\Debug\netcoreapp3.1\erpApp.Data.pdb
+C:\Paulo\Projeto\erpApp\erpApp.Data\bin\Debug\netcoreapp3.1\erpApp.Model.dll
+C:\Paulo\Projeto\erpApp\erpApp.Data\bin\Debug\netcoreapp3.1\erpApp.Model.pdb
+C:\Paulo\Projeto\erpApp\erpApp.Data\obj\Debug\netcoreapp3.1\erpApp.Data.csprojAssemblyReference.cache
+C:\Paulo\Projeto\erpApp\erpApp.Data\obj\Debug\netcoreapp3.1\erpApp.Data.csproj.CoreCompileInputs.cache
+C:\Paulo\Projeto\erpApp\erpApp.Data\obj\Debug\netcoreapp3.1\erpApp.Data.AssemblyInfoInputs.cache
+C:\Paulo\Projeto\erpApp\erpApp.Data\obj\Debug\netcoreapp3.1\erpApp.Data.AssemblyInfo.cs
+C:\Paulo\Projeto\erpApp\erpApp.Data\obj\Debug\netcoreapp3.1\erpApp.Data.csproj.CopyComplete
+C:\Paulo\Projeto\erpApp\erpApp.Data\obj\Debug\netcoreapp3.1\erpApp.Data.dll
+C:\Paulo\Projeto\erpApp\erpApp.Data\obj\Debug\netcoreapp3.1\erpApp.Data.pdb
